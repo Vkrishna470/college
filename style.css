@@ -1,0 +1,86 @@
+.header
+{
+    height:180px;
+    margin-top:-20px;
+    padding-top:30px;
+}
+.form-block
+{
+    border:2px solid black;
+    background-color: rgb(219, 253, 253);
+}
+.form-group .form-control
+{
+    width:300px;
+}
+.form-group
+{
+    display:flex;
+    margin:40px;
+}
+.form-group input
+{
+    margin-left:100px;
+}
+.form-group input[type=text]
+{
+    margin-left:180px;
+}
+.form-group input[type=tel]
+{
+    margin-left:150px;
+}
+.form-group input[type=date]
+{
+    margin-left:155px;
+}
+.form-group input[type=number]
+{
+    margin-left:140px;
+}
+.form-group input[type=radio]
+{
+    margin-left:180px;
+}
+.form-group .tags
+{
+    margin-left:300px;
+}
+
+.form-block .btn
+{
+    margin-left:650px;
+    padding:10px;
+    margin-top:20px;
+}
+select
+{
+  margin-left:120px;
+  padding:10px;
+  width:300px;
+}
+/* .form-block
+{
+    margin-left:500px;
+   
+} */
+.error {
+    width: 92%; 
+    margin: 0px auto; 
+    padding: 10px; 
+    border: 1px solid #a94442; 
+    color: #a94442; 
+    background: #f2dede; 
+    border-radius: 5px; 
+    text-align: left;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  .show
+  {
+      margin-left:600px;
+      margin-top:40px;
+      padding:20px;
+  }
+ 
